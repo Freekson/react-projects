@@ -18,6 +18,7 @@
     <li><a href="#counter">Counter</a></li>
     <li><a href="#modal">Modal</a></li>
     <li><a href="#quiz">Quiz</a></li>
+    <li><a href="#list-of-users">List of users</a></li>
   </ol>
 
 <div id="counter"></div>
@@ -37,6 +38,12 @@
 # Quiz
 
 ![quiz](readme-source/chrome_m5cKw6FcsE.gif)
+
+<div id="list-of-users"></div>
+
+# List of users
+
+![list of users](readme-source/chrome_wYjB8medQV.gif)
 
 # Contact
 
