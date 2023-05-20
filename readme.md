@@ -19,6 +19,7 @@
     <li><a href="#modal">Modal</a></li>
     <li><a href="#quiz">Quiz</a></li>
     <li><a href="#list-of-users">List of users</a></li>
+    <li><a href="#currency-convertor">Currency convertor</a></li>
   </ol>
 
 <div id="counter"></div>
@@ -44,6 +45,12 @@
 # List of users
 
 ![list of users](readme-source/chrome_wYjB8medQV.gif)
+
+<div id="currency-convertor"></div>
+
+# Currency convertor
+
+![currency-convertor](readme-source/chrome_BbtaNgMwWt.gif)
 
 # Contact
 
