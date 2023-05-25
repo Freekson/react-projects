@@ -20,6 +20,7 @@
     <li><a href="#quiz">Quiz</a></li>
     <li><a href="#list-of-users">List of users</a></li>
     <li><a href="#currency-convertor">Currency convertor</a></li>
+    <li><a href="#photo-gallery">Photo gallery</a></li>
   </ol>
 
 <div id="counter"></div>
@@ -51,6 +52,12 @@
 # Currency convertor
 
 ![currency-convertor](readme-source/chrome_BbtaNgMwWt.gif)
+
+<div id="photo-gallery"></div>
+
+# Photo gallery
+
+![phone-gallery](readme-source/chrome_p9OHnONXbF.gif)
 
 # Contact
 
