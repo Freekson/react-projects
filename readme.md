@@ -21,6 +21,7 @@
     <li><a href="#list-of-users">List of users</a></li>
     <li><a href="#currency-convertor">Currency convertor</a></li>
     <li><a href="#photo-gallery">Photo gallery</a></li>
+    <li><a href="#password-generator">Password generator</a></li>
   </ol>
 
 <div id="counter"></div>
@@ -58,6 +59,12 @@
 # Photo gallery
 
 ![phone-gallery](readme-source/chrome_p9OHnONXbF.gif)
+
+<div id="password-generator"></div>
+
+# Password generator
+
+![password-generator](readme-source/chrome_WWpELdUreF.gif)
 
 # Contact
 
